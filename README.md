@@ -33,7 +33,7 @@ python main.py
 | `.../ui.py`, `assets.py`, `audio.py`, `config.py` | HUD, generated art, sound, tunables |
 | `ICT project/DOCUMENTATION.txt` | Full write-up: problem statement, mechanics, module map, scoring maths |
 | `ICT project/PRESENTATION_SCRIPT.txt` | The lab presentation script |
-| `ICT project/Project_Presentation.pptx` | The slide deck |
+| — | The slide deck (`Project_Presentation.pptx`) is kept outside this repo to keep it small |
 | `ICT project/raptor.flowchart.rap`, `raptor.png` | Game-loop flowchart, source and image |
 
 ## Scoring
